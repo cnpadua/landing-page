@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+/* ":root matches the root element of a tree representing a document" 
+    In html, :root represents the html element
+    Useful for declaring variables
+*/
+:root {
+    /* COLORS */
+    --dark-bg-color: #1F2937;
+    --header-link-text-color: #E5E7EB;
+    --hero-header-text-color: #F9FAF8;
+    --hero-text-color: #E5E7EB;
+    --header-logo-text: #F9FAF8;
+    --button-color: #3882F6;
+    --signup-bg: #3882F6;
+    --info-header-text: #1F2937;
+    --quote-bg: #E5E7EB;
+    --quote-text-color: #1F2937;
+}
