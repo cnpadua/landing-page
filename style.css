@@ -211,3 +211,41 @@ li {
     font-weight: bold;
 }
 
+/* SIGNUP */
+
+.signup {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-block: 64px;
+}
+
+.signup-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--signup-bg);
+    width: 1000px;
+    color: white;
+    border-radius: 5px;
+    padding-block: 36px;
+}
+
+.signup-header {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.signup-text {
+    font-size: 15px;
+}
+
+.signup-button {
+    background: var(--button-color);
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    color: white;
+    border: 1px solid white;
+}
