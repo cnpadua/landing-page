@@ -1,5 +1,7 @@
 # The Odin Project - Landing Page Project
 
+View [here](https://cnpadua.github.io/landing-page/).
+
 ## Description
 The Odin Project - Landing Page Project
 
